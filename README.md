@@ -1,4 +1,4 @@
-# COMPONWNTE NO VISUAL: VALIDACIONES PARA JAVA
+# COMPONENTE NO VISUAL: VALIDACIONES PARA JAVA
 
 ### Descripción
 Este componente Java permite realizar validaciones comunes, tales como validación de números de teléfono, URL, tarjetas de crédito, CURP y NSS. Está diseñado para ser usado en aplicaciones Java.
